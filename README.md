@@ -1,6 +1,6 @@
 ### Hey! Thanks for checking out my GitHub profile 👋
 
-Just finished my third year of Computer Science at the University of Toronto and am currently employed at [Konrad Group](https://www.konrad.com/) for a year long internship as a full stack web development
+Just finished my third year of Computer Science at the University of Toronto and am currently employed at [Konrad Group](https://www.konrad.com/) for a year long internship as a full stack web developer
 
 For more information about my employment experience and personal projects I would appreciate you visiting my personal website at [joshbra.gg](https://joshbra.gg/)
 
